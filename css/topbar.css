@@ -1,0 +1,22 @@
+.topbar{
+  overflow: hidden;
+  background-color: rgb(6, 6, 9);
+  position: sticky;
+}
+
+.home {
+  float: left;
+}
+.git {
+  float:left;
+  text-align: center;
+  padding: 21px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  color: lightgray;
+  font-family: 'jetbrainsmonoregular', Arial, sans-serif
+}
+.twitter{
+  float:right;
+  padding: 15px 16px;
+}
