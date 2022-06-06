@@ -18,5 +18,10 @@
 }
 .twitter{
   float:right;
-  padding: 15px 16px;
+  padding: 18px 16px;
+}
+
+.yt{
+  float:right;
+  padding: 16px 16px;
 }
