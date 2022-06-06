@@ -10,7 +10,7 @@
 .git {
   float:left;
   text-align: center;
-  padding: 21px 16px;
+  padding: 22px 16px;
   text-decoration: none;
   font-size: 16px;
   color: lightgray;
@@ -18,10 +18,10 @@
 }
 .twitter{
   float:right;
-  padding: 18px 16px;
+  padding: 16px 16px;
 }
 
 .yt{
   float:right;
-  padding: 16px 16px;
+  padding: 13px 16px;
 }
