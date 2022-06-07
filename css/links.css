@@ -1,0 +1,21 @@
+.webrepo:link{
+  color: darkblue;
+  text-decoration: none;
+}
+
+.webrepo:visited{
+  color: darkblue;
+  text-decoration: none;
+}
+
+.webrepo:hover{
+  animation-name: webrepohover;
+  animation-duration: 200ms;
+  animation-fill-mode: forwards;
+}
+
+@keyframes webrepohover {
+  0%{color: darkblue;}
+  100%{color: blue;}
+
+}
