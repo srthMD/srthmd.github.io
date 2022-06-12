@@ -13,5 +13,12 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "fetch": "^1.1.0",
+    "github-embed": "^1.0.1",
+    "jquery": "^3.6.0",
+    "react": "^18.1.0"
   }
 }
