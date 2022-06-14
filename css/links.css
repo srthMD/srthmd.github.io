@@ -1,21 +1,25 @@
-.webrepo:link{
-  color: darkblue;
-  text-decoration: none;
+.webrepo:link {
+    color: rgb(0, 0, 190);
+    text-decoration: none;
 }
 
-.webrepo:visited{
-  color: darkblue;
-  text-decoration: none;
+.webrepo:visited {
+    color: rgb(0, 0, 190);
+    text-decoration: none;
 }
 
-.webrepo:hover{
-  animation-name: webrepohover;
-  animation-duration: 200ms;
-  animation-fill-mode: forwards;
+.webrepo:hover {
+    animation-name: webrepohover;
+    animation-duration: 200ms;
+    animation-fill-mode: forwards;
 }
 
 @keyframes webrepohover {
-  0%{color: darkblue;}
-  100%{color: blue;}
-
+    0% {
+        color: rgb(0, 0, 190);
+    }
+    100% {
+        color: blue;
+        font-weight: 500;
+    }
 }
